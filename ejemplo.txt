@@ -1,5 +1,4 @@
 esto es un ejemplo de git.
 sin cambios.
 
-un nuevo cambio.
-otro cambio nuevo.
+esto es un cambio habiendo recuperado el original.
