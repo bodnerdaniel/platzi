@@ -2,3 +2,5 @@ esto es un ejemplo de git.
 sin cambios.
 
 esto es un cambio habiendo recuperado el original.
+
+esta es una linea desde github.
